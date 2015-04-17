@@ -2,7 +2,7 @@
 Contributors: blogestudio, pauiglesias
 Tags: css, defer, defer css, css delivery, css load, stylesheet, speed, async, asynchronous, asynchronously, footer, optimization, seo, wpo
 Requires at least: 3.3.2
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 
@@ -41,7 +41,7 @@ This is because you don't have a css-above-the-fold solution, or if you have one
 = 1.0 =
 Release Date: April 13th, 2015
 
-* First and tested released until WordPress 4.1.1
+* First and tested released until WordPress 4.2
 * Compatibility whith last and older versions of BWP Minify
 * Tested code from WordPress 3.3.2 version.
 
