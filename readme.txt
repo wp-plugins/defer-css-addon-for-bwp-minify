@@ -2,7 +2,7 @@
 Contributors: blogestudio, pauiglesias
 Tags: css, defer, defer css, css delivery, css load, stylesheet, speed, async, asynchronous, asynchronously, footer, optimization, seo, wpo
 Requires at least: 3.3.2
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 
